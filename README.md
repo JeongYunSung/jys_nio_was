@@ -9,6 +9,9 @@
 
 ## Example
 
+* docker build -t jys/jar .
+* docker run -p 8080:8080 --name jar jys/jar
+
 * http://localhost:8080
 * http://localhost:8080/test
 * http://localhost:8080/json
